@@ -10,6 +10,7 @@ function dailynotes_menu() {
         options:{
         reloadPage:true
         }
+        
         };
         
         //};
@@ -17,6 +18,25 @@ function dailynotes_menu() {
     }
     catch (error) { console.log('hook_menu failed - ' + error); }
 }
+
+
+/**
+ * Implements hook_menu().
+ */
+//function dailynotes_menu() {
+//    var items = {
+//    my_custom_page:{
+//    title:"Daily Notes",
+//    page_callback:"dailynotes_daily_notes",
+//    options:{
+//    reloadPage:true
+//    }
+//    }
+//    };
+//    return items;
+//}
+
+
 
 /**
  * The page callback to display the view contacts_contacts_images.

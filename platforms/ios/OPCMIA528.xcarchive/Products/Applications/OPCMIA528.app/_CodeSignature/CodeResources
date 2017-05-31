@@ -86,7 +86,7 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		s9iYD6stmLOVziIquWzjiqMDJ2o=
+		r9joCkJRzQppahRjQOtDYpMKxAk=
 		</data>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>CDVLaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		i214qVnfBhofBluizb1nvGnbiF0=
+		597LUwNnhn+GyGex3rQ4ezu6cRU=
 		</data>
 		<key>CDVNotification.bundle/beep.wav</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		89dBBycN+TcoH1bwjmyk20n+5sA=
+		twiU+pzdUTtJMOymMlnas2S+I/c=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
@@ -162,7 +162,7 @@
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		SblrxHFWCBbmyyMzqvk2K9FXsVM=
+		rdNXTwp2Prf8TpVHxFwm0QfJhMg=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		CAxgaoc2sLufLOaFvGyDYfgk6aQ=
+		GkqRrTkx2KTp/1+ZcbyGmnkOqlg=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -262,7 +262,7 @@
 		</data>
 		<key>www/app/modules/custom/dailynotes/dailynotes.js</key>
 		<data>
-		FhYNkTpbZZBVaHqnm2oWcjHLbTc=
+		83ZPUO2fkoKLUSTYELkLcALHA88=
 		</data>
 		<key>www/app/modules/custom/email/email.js</key>
 		<data>
@@ -326,7 +326,7 @@
 		</data>
 		<key>www/app/modules/custom/notes/notes.js</key>
 		<data>
-		e/FX6QFOX+P3LbNUwkXWsQs+TTI=
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 		</data>
 		<key>www/app/modules/custom/notitle/notitle.js</key>
 		<data>
@@ -538,7 +538,7 @@
 		</data>
 		<key>www/app/settings.js</key>
 		<data>
-		7+q1h5gyEgsvsoVuMr3fq7UlkmU=
+		Gql2ry6lASv3I1JVaV7yI0i80YE=
 		</data>
 		<key>www/bin/drupalgap-7.0.2.js</key>
 		<data>
@@ -2823,11 +2823,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			s9iYD6stmLOVziIquWzjiqMDJ2o=
+			r9joCkJRzQppahRjQOtDYpMKxAk=
 			</data>
 			<key>hash2</key>
 			<data>
-			M9clORUm4Em+8Yqm/0k8T/SO+AvNkTjVXi/YZZr09Iw=
+			TnyFUxSkGLQizyUR8+Cam8Gq/YZ0FaEYnch7zfntBEY=
 			</data>
 		</dict>
 		<key>CDVLaunchScreen.storyboardc/Info.plist</key>
@@ -2845,11 +2845,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i214qVnfBhofBluizb1nvGnbiF0=
+			597LUwNnhn+GyGex3rQ4ezu6cRU=
 			</data>
 			<key>hash2</key>
 			<data>
-			aR+5/+WSCXOpwW2ghTNzGRrRAGs9L67rbXSHRvtb6/0=
+			WroqL0hBkLLwywgYtYhk48rLB07IQ47BWhyr4U9JbIw=
 			</data>
 		</dict>
 		<key>CDVNotification.bundle/beep.wav</key>
@@ -3021,11 +3021,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SblrxHFWCBbmyyMzqvk2K9FXsVM=
+			rdNXTwp2Prf8TpVHxFwm0QfJhMg=
 			</data>
 			<key>hash2</key>
 			<data>
-			GeeYXA5M9iBANedI68X0BUz4OXsSo54iXoKvLKsT4CI=
+			iJ7Fe51rR/oiXVWD6f7jb+Lm2cl3dowZJh0bfwAkWp8=
 			</data>
 		</dict>
 		<key>archived-expanded-entitlements.xcent</key>
@@ -3043,11 +3043,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CAxgaoc2sLufLOaFvGyDYfgk6aQ=
+			GkqRrTkx2KTp/1+ZcbyGmnkOqlg=
 			</data>
 			<key>hash2</key>
 			<data>
-			IIH9VBtvPIOF72wC4aE5ctfcw52atoCJTSj+t3fOBws=
+			qdt4CVQ17y8FHujSDgvSR/u82rTwYhTGs8+fbKbQzNc=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
@@ -3285,11 +3285,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FhYNkTpbZZBVaHqnm2oWcjHLbTc=
+			83ZPUO2fkoKLUSTYELkLcALHA88=
 			</data>
 			<key>hash2</key>
 			<data>
-			bhrozrSRvV4uQWNUVXFszk4Uf38bREVYI3aHH8isFiw=
+			Te+YqY7i+O6uqxa44srQa5EWIYpmwRgJ/jrGE6/yxGo=
 			</data>
 		</dict>
 		<key>www/app/modules/custom/email/email.js</key>
@@ -3461,11 +3461,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e/FX6QFOX+P3LbNUwkXWsQs+TTI=
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 			</data>
 			<key>hash2</key>
 			<data>
-			9G3nJtbv+yYlJLkqQRToqpApKbTyMVRXMRQ1ywWZqSA=
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
 		<key>www/app/modules/custom/notitle/notitle.js</key>
@@ -4044,11 +4044,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7+q1h5gyEgsvsoVuMr3fq7UlkmU=
+			Gql2ry6lASv3I1JVaV7yI0i80YE=
 			</data>
 			<key>hash2</key>
 			<data>
-			nHycX1ELEe4iTkwLqMQVmHsotJj0kuF8KdTcDSSzKiI=
+			FAQpCkO1UpfoSBVj94qmM0yfuLYN1TBLNamjPJI6el4=
 			</data>
 		</dict>
 		<key>www/bin/drupalgap-7.0.2.js</key>

@@ -29,15 +29,15 @@ Drupal.settings.language_default = 'und';
 
 /* CACHING AND PERFORMANCE */
 
-// Entity Caching
-Drupal.settings.cache.entity = {
-
-  /* Globals (will be used if not overwritten below) */
-  enabled: true,
-  expiration: 60, // # of seconds to cache, set to 0 to cache forever
-
-  /* Entity types */
-  entity_types: {
+//// Entity Caching
+//Drupal.settings.cache.entity = {
+//
+//  /* Globals (will be used if not overwritten below) */
+//  enabled: false,
+//  expiration: 60, // # of seconds to cache, set to 0 to cache forever
+//
+//  /* Entity types */
+//  entity_types: {
 
     /* Comments */
     /*comment: {
@@ -50,25 +50,25 @@ Drupal.settings.cache.entity = {
      },*/
 
     // Nodes
-    node: {
-
-      // Node Globals (will be used if not overwritten below)
-      enabled: true,
-      expiration: 120,
-
-      // Content types (aka bundles)
-      bundles: {
-
-        article: {
-          expiration: 3600
-        },
-        page: {
-          enabled: false
-        }
-
-      }
-    },
-      
+//    node: {
+//
+//      // Node Globals (will be used if not overwritten below)
+//      enabled: true,
+//      expiration: 120,
+//
+//      // Content types (aka bundles)
+//      bundles: {
+//
+//        article: {
+//          expiration: 3600
+//        },
+//        page: {
+//          enabled: false
+//        }
+//
+//      }
+//    },
+//      
 
     /* Terms */
     /*taxonomy_term: {
@@ -85,16 +85,16 @@ Drupal.settings.cache.entity = {
      bundles: {}
      }*/
 
-  }
-
-};
+//  }
+//
+//};
 
 /* Views Caching */
 
-Drupal.settings.cache.views = {
-  enabled: true,
-  expiration: 3600
-};
+//Drupal.settings.cache.views = {
+//  enabled: false,
+//  expiration: 3600
+//};
 
 /*********************|
  * DrupalGap Settings |
@@ -107,7 +107,7 @@ drupalgap.settings.mode = 'phonegap';
 
 // Language Files - locale/[language-code].json
 drupalgap.settings.locale = {
-en: { }
+//en: { }
 
 };
 
@@ -187,6 +187,7 @@ Drupal.modules.custom['contractorsContact'] = {};
 Drupal.modules.custom['login'] = {};
 Drupal.modules.custom['notitle'] = {};
 Drupal.modules.custom['filterMap'] = {};
+//Drupal.modules.custom['notes'] = {};
 
 
 /***************************************|

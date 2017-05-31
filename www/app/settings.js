@@ -6,7 +6,7 @@
 //window.localStorage.clear();
 
 // Set to true to see console.log() messages. Set to false when publishing app.
-Drupal.settings.debug = false;
+Drupal.settings.debug = true;
 
 /****************************************|
  * Drupal Settings (provided by jDrupal) |
@@ -29,14 +29,14 @@ Drupal.settings.language_default = 'und';
 
 /* CACHING AND PERFORMANCE */
 
-// Entity Caching
+//// Entity Caching
 Drupal.settings.cache.entity = {
-
-  /* Globals (will be used if not overwritten below) */
-  enabled: true,
+//
+//  /* Globals (will be used if not overwritten below) */
+  enabled: false,
   expiration: 60, // # of seconds to cache, set to 0 to cache forever
-
-  /* Entity types */
+//
+//  /* Entity types */
   entity_types: {
 
     /* Comments */
@@ -50,25 +50,25 @@ Drupal.settings.cache.entity = {
      },*/
 
     // Nodes
-    node: {
-
-      // Node Globals (will be used if not overwritten below)
-      enabled: true,
-      expiration: 120,
-
-      // Content types (aka bundles)
-      bundles: {
-
-        article: {
-          expiration: 3600
-        },
-        page: {
-          enabled: false
-        }
-
-      }
-    },
-      
+//    node: {
+//
+//      // Node Globals (will be used if not overwritten below)
+//      enabled: true,
+//      expiration: 120,
+//
+//      // Content types (aka bundles)
+//      bundles: {
+//
+//        article: {
+//          expiration: 3600
+//        },
+//        page: {
+//          enabled: false
+//        }
+//
+//      }
+//    },
+//      
 
     /* Terms */
     /*taxonomy_term: {
@@ -92,7 +92,7 @@ Drupal.settings.cache.entity = {
 /* Views Caching */
 
 Drupal.settings.cache.views = {
-  enabled: true,
+  enabled: false,
   expiration: 3600
 };
 
@@ -107,7 +107,7 @@ drupalgap.settings.mode = 'phonegap';
 
 // Language Files - locale/[language-code].json
 drupalgap.settings.locale = {
-en: { }
+/* es: { } */
 
 };
 
@@ -165,7 +165,7 @@ Drupal.modules.contrib['link'] = {};
 Drupal.modules.contrib['pathfix'] = {};
 Drupal.modules.contrib['privatemsg'] = {};
 Drupal.modules.contrib['force_authentication'] = {};
-//Drupal.modules.contrib['video_embed_field'] = {};
+Drupal.modules.contrib['video_embed_field'] = {};
 //Drupal.modules.contrib['webform'] = {};
 //Drupal.modules.contrib['views_infinite_scroll'] = {};
 
@@ -187,6 +187,7 @@ Drupal.modules.custom['contractorsContact'] = {};
 Drupal.modules.custom['login'] = {};
 Drupal.modules.custom['notitle'] = {};
 Drupal.modules.custom['filterMap'] = {};
+Drupal.modules.custom['notes'] = {};
 
 
 /***************************************|
